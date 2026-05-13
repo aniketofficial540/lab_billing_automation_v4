@@ -1,0 +1,15 @@
+S.No.,Company Name,Patient Name,MRD Number,Bill Number,creation_date,cpt_code,Service Name,MRP,Discount,Bill_Amount
+240,Bhardwaj Diagnostic Center-FBD,FAISAL HAQUE,288320,OPD/1/25/8168,2026-06-03 09:51:00,LABI01034,"Hepatic function panel (LFT) Protein (T), Alb, Glob, Bil-T&D, ALP, ALT, AST[CHEM-PANEL][Panel]",700.0,280.0,420.0
+241,Bhardwaj Diagnostic Center-FBD,BABY HIMANSHI,288879,OPD/1/25/8236,2026-08-03 10:03:00,LABI00040,Albumin Serum,150.0,60.0,90.0
+242,Bhardwaj Diagnostic Center-FBD,BABY HIMANSHI,288879,OPD/1/25/8236,2026-08-03 10:03:00,LABI00052,Creatinine blood,150.0,60.0,90.0
+244,Bhardwaj Diagnostic Center-FBD,BABY HIMANSHI,288879,OPD/1/25/8236,2026-08-03 10:03:00,LAHA01038,CBC WBC diff RBC and Platelet(HEM-PANEL)[Panel],350.0,140.0,210.0
+245,Bhardwaj Diagnostic Center-FBD,MST SIDDHARTH,291738,OPD/1/25/8579,21-03-2026 07:34,LABI01036,"Thyroid Panel: Free T4, TSH[CHEM-PANEL][Panel]",700.0,280.0,420.0
+247,Bhardwaj Diagnostic Center-FBD,MR GAURAV,246486,OPD/1/25/8645,23-03-2026 15:07,LABI01036,"Thyroid Panel: Free T4, TSH[CHEM-PANEL][Panel]",700.0,280.0,420.0
+249,Bhardwaj Diagnostic Center-FBD,LALITA DE,293484,OPD/1/25/8817,30-03-2026 11:10,LAMI00113,Culture Urine,850.0,340.0,510.0
+251,Bhardwaj Diagnostic Center-FBD,LALITA DE,293484,OPD/1/25/8817,30-03-2026 11:10,LAMI01053,Urine Analysis-Automated[Panel],160.0,64.0,96.0
+252,Bhardwaj Diagnostic Center-FBD,MS KOMAL,259782,OPD/1/25/8841,31-03-2026 09:18,LABI01036,"Thyroid Panel: Free T4, TSH[CHEM-PANEL][Panel]",700.0,280.0,420.0
+254,Bhardwaj Diagnostic Center-FBD,MS KRISHNA,293880,OPD/1/25/8862,31-03-2026 13:18,LAHA01038,CBC WBC diff RBC and Platelet(HEM-PANEL)[Panel],350.0,140.0,210.0
+255,Bhardwaj Diagnostic Center-FBD,MS KRISHNA,293880,OPD/1/25/8862,31-03-2026 13:18,LAMI01053,Urine Analysis-Automated[Panel],160.0,64.0,96.0
+256,Bhardwaj Diagnostic Center-FBD,MS KRISHNA,293880,OPD/1/25/8862,31-03-2026 13:18,LABI01034,"Hepatic function panel (LFT) Protein (T), Alb, Glob, Bil-T&D, ALP, ALT, AST[CHEM-PANEL][Panel]",700.0,280.0,420.0
+258,Bhardwaj Diagnostic Center-FBD,MS KRISHNA,293880,OPD/1/25/8862,31-03-2026 13:18,LABI00086,Renal Function Test ( RFT) - KFT[Panel],800.0,320.0,480.0
+259,Bhardwaj Diagnostic Center-FBD,MS KRISHNA,293880,OPD/1/25/8862,31-03-2026 13:18,LAHA00327,Malaria Antigen,700.0,280.0,420.0

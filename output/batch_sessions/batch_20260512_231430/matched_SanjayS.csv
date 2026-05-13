@@ -1,0 +1,4 @@
+S.No.,Company Name,Patient Name,MRD Number,Bill Number,creation_date,cpt_code,Service Name,MRP,Discount,Bill_Amount
+270,Dr Sanjay Singla - FBD,BABY OF KANCHAN,292833,OPD/1/25/8736,26-03-2026 18:19,LAMI00014,Culture Blood (Aerobic),1200.0,420.0,780.0
+272,Dr Sanjay Singla - FBD,MR RUDHEER,292834,OPD/1/25/8737,26-03-2026 18:20,LAMI00014,Culture Blood (Aerobic),1200.0,420.0,780.0
+274,Dr Sanjay Singla - FBD,BABY OF SEJAL,293346,OPD/1/25/8776,28-03-2026 17:58,LAMI00014,Culture Blood (Aerobic),1200.0,420.0,780.0

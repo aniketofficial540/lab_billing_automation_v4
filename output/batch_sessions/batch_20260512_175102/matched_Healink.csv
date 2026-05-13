@@ -1,0 +1,4 @@
+S.No.,Company Name,Patient Name,MRD Number,Bill Number,creation_date,cpt_code,Service Name,MRP,Discount,Bill_Amount
+1,Healink Hospital-FBD,MST MADHAV,289151,OPD/1/25/8276,2026-09-03 14:20:00,LACY00076,"Cytopath - Fluids for cytology(Any source) Ascitic fluid, Bronchial washing, Pleural fluid,Peritoneal wash,Pericardial fluid,Abscess,Nipple discharge,Sputum,Synovial fluid,Others",600.0,180.0,420.0
+3,Healink Hospital-FBD,MST MADHAV,289151,OPD/1/25/8276,2026-09-03 14:20:00,LAMI00011,Culture Misc.(state source/site),1200.0,360.0,840.0
+4,Healink Hospital-FBD,MST MADHAV,289151,OPD/1/25/8276,2026-09-03 14:20:00,LAHI00415,Histopath - Excision Biopsy Large,3000.0,900.0,2100.0

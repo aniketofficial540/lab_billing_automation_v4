@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem \"D:\\\\lab_billing_project\" -Recurse | Where-Object {!$_.PSIsContainer} | Select-Object -ExpandProperty FullName)",
+      "Bash(python -c \"import ast, sys; files=['config.py','ui/widgets.py','ui/main_window.py','ui/op1_screen.py','ui/op2_screen.py']; [print\\(f\\) or ast.parse\\(open\\(f\\).read\\(\\)\\) for f in files]; print\\('All syntax OK'\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(python main.py)",
+      "Bash(python -u main.py)",
+      "Bash(Start-Sleep -Seconds 5)",
+      "Bash(Get-Content \"C:\\\\Users\\\\anike\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\D--lab-billing-project-v2\\\\7d9c26bb-70ea-40d0-a69a-1edc3d8489bb\\\\tasks\\\\bh6x7dn6m.output\" -ErrorAction SilentlyContinue)",
+      "Bash(pip show *)",
+      "Bash(rm -rf build dist)",
+      "Bash(pyinstaller build.spec --noconfirm --clean --log-level WARN)",
+      "Bash(pyinstaller build.spec --noconfirm --clean --log-level INFO)",
+      "Bash(pyinstaller _hello.py --onefile --noconfirm --clean --log-level WARN)",
+      "Bash(pyinstaller _test1.py --onedir --noconfirm --clean --log-level WARN)",
+      "Bash(echo \"RESULT_T1: $?\")",
+      "Bash(pyinstaller _test2.py --onedir --noconfirm --clean --log-level WARN)",
+      "Bash(echo \"RESULT_T2: $?\")",
+      "Bash(pyinstaller _test3.py --onedir --noconfirm --clean --log-level WARN)",
+      "Bash(echo \"RESULT_T3: $?\")",
+      "Bash(rm -rf build dist _test3.*)",
+      "Bash(pyinstaller _test4.py --onedir --noconfirm --clean --log-level WARN)",
+      "Bash(echo \"RESULT_T4: $?\")",
+      "Bash(rm -rf build dist _test4.*)",
+      "Bash(pyinstaller build.spec --noconfirm --clean)",
+      "Bash(echo \"exit=$?\")",
+      "Bash(rm -rf data output)",
+      "Bash(./AmritaLabBilling.exe)",
+      "Bash(taskkill //F //IM AmritaLabBilling.exe)",
+      "Bash(taskkill //F //IM EXCEL.EXE)",
+      "Bash(Get-ChildItem -Recurse -Path \"d:\\\\lab_billing_project v2\" -Force)",
+      "Bash(Select-Object FullName)",
+      "Bash(Sort-Object FullName)"
+    ]
+  }
+}

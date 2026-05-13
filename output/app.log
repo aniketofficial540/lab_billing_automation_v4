@@ -1,0 +1,265 @@
+2026-05-13 00:33:32 | INFO    | lab_billing.__main__           | Application exiting
+2026-05-13 09:38:30 | INFO    | lab_billing                    | ============================================================
+2026-05-13 09:38:30 | INFO    | lab_billing                    | Logger initialised
+2026-05-13 09:38:30 | INFO    | lab_billing.__main__           | Application starting (frozen=False)
+2026-05-13 09:40:18 | INFO    | lab_billing.ui.op1_screen      | Op1 start: input=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (2).xlsx
+2026-05-13 09:40:18 | INFO    | lab_billing.core.csv_reader    | HIS export loaded: source=excel, rows=507, path=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (2).xlsx
+2026-05-13 09:40:24 | INFO    | lab_billing.core.batch_store   | Batch session saved: d:\lab_billing_project v3\output\batch_sessions\batch_20260513_094019\batch_session.json
+2026-05-13 09:41:57 | INFO    | lab_billing.ui.op2_screen      | Op2 start (batch)
+2026-05-13 09:41:58 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Healink Hospital-FBD
+2026-05-13 09:41:58 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094158_pre_inv_inc_Healink_Hospital_F.xlsx
+2026-05-13 09:41:58 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:41:59 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Healink Hospital-FBD: 2 → 3
+2026-05-13 09:41:59 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:41:59 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:41:59 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:00 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr. Vishwajeet Ajit Jha
+2026-05-13 09:42:00 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094200_pre_inv_inc_Dr__Vishwajeet_Aji.xlsx
+2026-05-13 09:42:00 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:00 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr. Vishwajeet Ajit Jha: 2 → 3
+2026-05-13 09:42:01 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:01 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:01 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:01 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Gupta Clinic-FBD
+2026-05-13 09:42:01 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094201_pre_inv_inc_Gupta_Clinic_FBD.xlsx
+2026-05-13 09:42:01 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:02 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Gupta Clinic-FBD: 2 → 3
+2026-05-13 09:42:03 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:03 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:03 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:03 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Tomar Hospital-FBD
+2026-05-13 09:42:03 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094203_pre_inv_inc_Tomar_Hospital_FBD.xlsx
+2026-05-13 09:42:03 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:03 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Tomar Hospital-FBD: 2 → 3
+2026-05-13 09:42:04 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:04 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:04 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:04 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Accord Superspeciality Hospital-FBD
+2026-05-13 09:42:04 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094204_pre_inv_inc_Accord_Superspecia.xlsx
+2026-05-13 09:42:04 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:05 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Accord Superspeciality Hospital-FBD: 2 → 3
+2026-05-13 09:42:06 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:06 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:06 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:06 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Bhardwaj Diagnostic Center-FBD
+2026-05-13 09:42:06 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094206_pre_inv_inc_Bhardwaj_Diagnosti.xlsx
+2026-05-13 09:42:06 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:06 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Bhardwaj Diagnostic Center-FBD: 2 → 3
+2026-05-13 09:42:07 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:07 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:07 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:07 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Preesha Healthcare-FBD
+2026-05-13 09:42:08 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094207_pre_inv_inc_Preesha_Healthcare.xlsx
+2026-05-13 09:42:08 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:08 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Preesha Healthcare-FBD: 2 → 3
+2026-05-13 09:42:09 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:09 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:09 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:09 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr Sanjay Singla - FBD
+2026-05-13 09:42:09 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094209_pre_inv_inc_Dr_Sanjay_Singla__.xlsx
+2026-05-13 09:42:09 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:09 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr Sanjay Singla - FBD: 2 → 3
+2026-05-13 09:42:10 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:10 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:10 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:11 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Kalra Childcare Centre - FBD
+2026-05-13 09:42:11 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094211_pre_inv_inc_Kalra_Childcare_Ce.xlsx
+2026-05-13 09:42:11 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:11 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Kalra Childcare Centre - FBD: 3 → 4
+2026-05-13 09:42:12 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:12 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:12 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:12 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Oxyvibe Hyperbaric Clinic-FBD
+2026-05-13 09:42:12 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094212_pre_inv_inc_Oxyvibe_Hyperbaric.xlsx
+2026-05-13 09:42:12 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:13 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Oxyvibe Hyperbaric Clinic-FBD: 2 → 3
+2026-05-13 09:42:13 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:13 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:13 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:14 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr. Manvi Gupta C/O Sachin Hospital
+2026-05-13 09:42:14 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094214_pre_inv_inc_Dr__Manvi_Gupta_C_.xlsx
+2026-05-13 09:42:14 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:14 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr. Manvi Gupta C/O Sachin Hospital: 2 → 3
+2026-05-13 09:42:15 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:15 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:15 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:15 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Samarpan Hospital-FBD
+2026-05-13 09:42:15 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094215_pre_inv_inc_Samarpan_Hospital_.xlsx
+2026-05-13 09:42:15 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:16 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Samarpan Hospital-FBD: 2 → 3
+2026-05-13 09:42:16 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:16 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:16 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:17 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr Prince Pareek-FBD
+2026-05-13 09:42:17 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094217_pre_inv_inc_Dr_Prince_Pareek_F.xlsx
+2026-05-13 09:42:17 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:17 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr Prince Pareek-FBD: 2 → 3
+2026-05-13 09:42:18 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:18 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:18 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:18 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Shehrawat Hospital-FBD
+2026-05-13 09:42:18 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094218_pre_inv_inc_Shehrawat_Hospital.xlsx
+2026-05-13 09:42:18 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:19 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Shehrawat Hospital-FBD: 2 → 3
+2026-05-13 09:42:19 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:19 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:19 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:20 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Kashi Healthcare-FBD
+2026-05-13 09:42:20 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094220_pre_inv_inc_Kashi_Healthcare_F.xlsx
+2026-05-13 09:42:20 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:20 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Kashi Healthcare-FBD: 2 → 3
+2026-05-13 09:42:21 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:21 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:21 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:21 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr Roopali Singhal-FBD
+2026-05-13 09:42:21 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094221_pre_inv_inc_Dr_Roopali_Singhal.xlsx
+2026-05-13 09:42:21 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:22 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr Roopali Singhal-FBD: 2 → 3
+2026-05-13 09:42:23 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:23 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:23 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:23 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Janta Hospital -FBD
+2026-05-13 09:42:23 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094223_pre_inv_inc_Janta_Hospital__FB.xlsx
+2026-05-13 09:42:23 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:23 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Janta Hospital -FBD: 2 → 3
+2026-05-13 09:42:24 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:24 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:24 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 09:42:24 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Santosh Hospital -FBD
+2026-05-13 09:42:24 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_094224_pre_inv_inc_Santosh_Hospital__.xlsx
+2026-05-13 09:42:24 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 09:42:25 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Santosh Hospital -FBD: 2 → 3
+2026-05-13 09:42:26 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 09:42:26 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 09:42:26 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:13:28 | INFO    | lab_billing.ui.op1_screen      | Op1 start: input=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (2).xlsx
+2026-05-13 10:13:28 | INFO    | lab_billing.core.csv_reader    | HIS export loaded: source=excel, rows=507, path=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (2).xlsx
+2026-05-13 10:13:33 | INFO    | lab_billing.core.batch_store   | Batch session saved: d:\lab_billing_project v3\output\batch_sessions\batch_20260513_101328\batch_session.json
+2026-05-13 10:16:29 | INFO    | lab_billing.ui.op2_screen      | Op2 start (batch)
+2026-05-13 10:16:30 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Healink Hospital-FBD
+2026-05-13 10:16:30 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101630_pre_inv_inc_Healink_Hospital_F.xlsx
+2026-05-13 10:16:30 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:31 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Healink Hospital-FBD: 3 → 4
+2026-05-13 10:16:31 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:31 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:31 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:32 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr. Vishwajeet Ajit Jha
+2026-05-13 10:16:32 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101632_pre_inv_inc_Dr__Vishwajeet_Aji.xlsx
+2026-05-13 10:16:32 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:32 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr. Vishwajeet Ajit Jha: 3 → 4
+2026-05-13 10:16:33 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:33 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:33 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:34 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Gupta Clinic-FBD
+2026-05-13 10:16:34 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101634_pre_inv_inc_Gupta_Clinic_FBD.xlsx
+2026-05-13 10:16:34 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:34 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Gupta Clinic-FBD: 3 → 4
+2026-05-13 10:16:35 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:35 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:35 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:35 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Tomar Hospital-FBD
+2026-05-13 10:16:35 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101635_pre_inv_inc_Tomar_Hospital_FBD.xlsx
+2026-05-13 10:16:35 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:36 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Tomar Hospital-FBD: 3 → 4
+2026-05-13 10:16:36 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:36 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:36 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:37 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Accord Superspeciality Hospital-FBD
+2026-05-13 10:16:37 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101637_pre_inv_inc_Accord_Superspecia.xlsx
+2026-05-13 10:16:37 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:37 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Accord Superspeciality Hospital-FBD: 3 → 4
+2026-05-13 10:16:38 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:38 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:38 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:38 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Bhardwaj Diagnostic Center-FBD
+2026-05-13 10:16:39 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101638_pre_inv_inc_Bhardwaj_Diagnosti.xlsx
+2026-05-13 10:16:39 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:39 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Bhardwaj Diagnostic Center-FBD: 3 → 4
+2026-05-13 10:16:40 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:40 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:40 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:40 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Preesha Healthcare-FBD
+2026-05-13 10:16:40 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101640_pre_inv_inc_Preesha_Healthcare.xlsx
+2026-05-13 10:16:40 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:41 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Preesha Healthcare-FBD: 3 → 4
+2026-05-13 10:16:41 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:41 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:41 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:42 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr Sanjay Singla - FBD
+2026-05-13 10:16:42 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101642_pre_inv_inc_Dr_Sanjay_Singla__.xlsx
+2026-05-13 10:16:42 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:42 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr Sanjay Singla - FBD: 3 → 4
+2026-05-13 10:16:43 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:43 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:43 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:43 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Kalra Childcare Centre - FBD
+2026-05-13 10:16:43 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101643_pre_inv_inc_Kalra_Childcare_Ce.xlsx
+2026-05-13 10:16:43 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:44 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Kalra Childcare Centre - FBD: 4 → 5
+2026-05-13 10:16:45 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:45 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:45 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:45 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Oxyvibe Hyperbaric Clinic-FBD
+2026-05-13 10:16:45 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101645_pre_inv_inc_Oxyvibe_Hyperbaric.xlsx
+2026-05-13 10:16:45 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:46 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Oxyvibe Hyperbaric Clinic-FBD: 3 → 4
+2026-05-13 10:16:46 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:46 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:46 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:47 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr. Manvi Gupta C/O Sachin Hospital
+2026-05-13 10:16:47 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101647_pre_inv_inc_Dr__Manvi_Gupta_C_.xlsx
+2026-05-13 10:16:47 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:47 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr. Manvi Gupta C/O Sachin Hospital: 3 → 4
+2026-05-13 10:16:48 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:48 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:48 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:48 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Samarpan Hospital-FBD
+2026-05-13 10:16:48 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101648_pre_inv_inc_Samarpan_Hospital_.xlsx
+2026-05-13 10:16:48 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:49 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Samarpan Hospital-FBD: 3 → 4
+2026-05-13 10:16:50 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:50 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:50 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:50 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr Prince Pareek-FBD
+2026-05-13 10:16:50 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101650_pre_inv_inc_Dr_Prince_Pareek_F.xlsx
+2026-05-13 10:16:50 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:50 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr Prince Pareek-FBD: 3 → 4
+2026-05-13 10:16:51 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:51 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:51 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:52 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Shehrawat Hospital-FBD
+2026-05-13 10:16:52 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101652_pre_inv_inc_Shehrawat_Hospital.xlsx
+2026-05-13 10:16:52 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:52 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Shehrawat Hospital-FBD: 3 → 4
+2026-05-13 10:16:53 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:53 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:53 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:53 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Kashi Healthcare-FBD
+2026-05-13 10:16:53 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101653_pre_inv_inc_Kashi_Healthcare_F.xlsx
+2026-05-13 10:16:53 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:54 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Kashi Healthcare-FBD: 3 → 4
+2026-05-13 10:16:54 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:54 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:54 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:55 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr Roopali Singhal-FBD
+2026-05-13 10:16:55 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101655_pre_inv_inc_Dr_Roopali_Singhal.xlsx
+2026-05-13 10:16:55 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:55 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr Roopali Singhal-FBD: 3 → 4
+2026-05-13 10:16:56 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:56 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:56 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:56 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Janta Hospital -FBD
+2026-05-13 10:16:56 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101656_pre_inv_inc_Janta_Hospital__FB.xlsx
+2026-05-13 10:16:56 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:57 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Janta Hospital -FBD: 3 → 4
+2026-05-13 10:16:58 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:58 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:58 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:16:58 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Santosh Hospital -FBD
+2026-05-13 10:16:58 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260513_101658_pre_inv_inc_Santosh_Hospital__.xlsx
+2026-05-13 10:16:58 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-13 10:16:59 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Santosh Hospital -FBD: 3 → 4
+2026-05-13 10:16:59 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-13 10:16:59 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-13 10:16:59 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-13 10:37:29 | INFO    | lab_billing.__main__           | Application exiting

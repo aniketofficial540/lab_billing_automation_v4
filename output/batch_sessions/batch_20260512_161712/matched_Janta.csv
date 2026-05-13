@@ -1,0 +1,5 @@
+S.No.,Company Name,Patient Name,MRD Number,Bill Number,creation_date,cpt_code,Service Name,MRP,Discount,Bill_Amount
+748,Janta Hospital -FBD,MASTER SHIVANSH,278648,OPD/1/25/8322,2026-11-03 09:40:00,LAHA01038,CBC WBC diff RBC and Platelet(HEM-PANEL)[Panel],350.0,220.0,130.0
+749,Janta Hospital -FBD,MASTER SHIVANSH,278648,OPD/1/25/8322,2026-11-03 09:40:00,LABI00086,Renal Function Test ( RFT) - KFT[Panel],800.0,500.0,300.0
+750,Janta Hospital -FBD,MASTER SHIVANSH,278648,OPD/1/25/8322,2026-11-03 09:40:00,LAMI01053,Urine Analysis-Automated[Panel],160.0,110.0,50.0
+752,Janta Hospital -FBD,MRS ALPANA,293361,OPD/1/25/8785,29-03-2026 09:10,LABI00055,HB A1C[Glycated Hemoglobin],450.0,250.0,200.0

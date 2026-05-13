@@ -1,0 +1,4 @@
+S.No.,Company Name,Patient Name,MRD Number,Bill Number,creation_date,cpt_code,Service Name,MRP,Discount,Bill_Amount
+6,Dr. Vishwajeet Ajit Jha,BABY OF MADHU,287732,OPD/1/25/8110,2026-02-03 15:28:00,LAMI00014,Culture Blood (Aerobic),1200.0,360.0,840.0
+7,Dr. Vishwajeet Ajit Jha,MST ARSHALAN,288856,OPD/1/25/8216,2026-07-03 17:52:00,LAMI00014,Culture Blood (Aerobic),1200.0,360.0,840.0
+14,Dr. Vishwajeet Ajit Jha,MST SARANSH,289734,OPD/1/25/8523,18-03-2026 14:57,LAMI00014,Culture Blood (Aerobic),1200.0,360.0,840.0

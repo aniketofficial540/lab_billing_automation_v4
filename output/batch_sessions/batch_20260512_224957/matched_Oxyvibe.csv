@@ -1,0 +1,20 @@
+S.No.,Company Name,Patient Name,MRD Number,Bill Number,creation_date,cpt_code,Service Name,MRP,Discount,Bill_Amount
+541,Oxyvibe Hyperbaric Clinic-FBD,MRS ASMA TAHIR,287912,OPD/1/25/8131,2026-03-03 15:44:00,LABI00053,Ferritin,300.0,120.0,180.0
+542,Oxyvibe Hyperbaric Clinic-FBD,MRS ASMA TAHIR,287912,OPD/1/25/8131,2026-03-03 15:44:00,LABI01046,Iron Profile[Panel],600.0,350.0,250.0
+546,Oxyvibe Hyperbaric Clinic-FBD,MS ZUNAIRAH,287920,OPD/1/25/8134,2026-03-03 16:47:00,LABI00053,Ferritin,300.0,120.0,180.0
+550,Oxyvibe Hyperbaric Clinic-FBD,MRS Shyamashree,288883,OPD/1/25/8238,2026-08-03 11:52:00,LABI01072,Cortisol Morning 7-9am,600.0,240.0,360.0
+552,Oxyvibe Hyperbaric Clinic-FBD,MS Shatavish maitra,288884,OPD/1/25/8239,2026-08-03 11:57:00,LABI01072,Cortisol Morning 7-9am,600.0,240.0,360.0
+555,Oxyvibe Hyperbaric Clinic-FBD,MS Shatavish maitra,288884,OPD/1/25/8239,2026-08-03 11:57:00,LABI00519,Immunoglobulin IgE,900.0,315.0,585.0
+556,Oxyvibe Hyperbaric Clinic-FBD,MR HARDEEP SINGH SETHI,289420,OPD/1/25/8306,2026-10-03 13:35:00,LAHA01038,CBC WBC diff RBC and Platelet(HEM-PANEL)[Panel],350.0,220.0,130.0
+558,Oxyvibe Hyperbaric Clinic-FBD,MR KUBER GOYAL,289473,OPD/1/25/8310,2026-10-03 15:23:00,LABI00519,Immunoglobulin IgE,900.0,315.0,585.0
+560,Oxyvibe Hyperbaric Clinic-FBD,J S GUPTA,290556,OPD/1/25/8445,15-03-2026 11:17,LABI00093,Glucose(PP),100.0,60.0,40.0
+562,Oxyvibe Hyperbaric Clinic-FBD,J S GUPTA,290556,OPD/1/25/8445,15-03-2026 11:17,LABI00519,Immunoglobulin IgE,900.0,315.0,585.0
+564,Oxyvibe Hyperbaric Clinic-FBD,MR HARDEEP SINGH SETHI,289420,OPD/1/25/8469,16-03-2026 17:26,LAHA01038,CBC WBC diff RBC and Platelet(HEM-PANEL)[Panel],350.0,220.0,130.0
+565,Oxyvibe Hyperbaric Clinic-FBD,MR HARDEEP SINGH SETHI,289420,OPD/1/25/8469,16-03-2026 17:26,LABI00519,Immunoglobulin IgE,900.0,315.0,585.0
+567,Oxyvibe Hyperbaric Clinic-FBD,MRS SHAWLI SAHA,291094,OPD/1/25/8501,17-03-2026 16:42,LABI00519,Immunoglobulin IgE,900.0,315.0,585.0
+569,Oxyvibe Hyperbaric Clinic-FBD,Sankar das,291851,OPD/1/25/8601,21-03-2026 13:09,LAMI00135,"Culture, Pus/Wound Swab/Aspirate",850.0,340.0,510.0
+570,Oxyvibe Hyperbaric Clinic-FBD,Sankar das,291851,OPD/1/25/8601,21-03-2026 13:09,LAMI00013,Anaerobic culture(Sample other than Blood),1500.0,600.0,900.0
+575,Oxyvibe Hyperbaric Clinic-FBD,MS PRIYANKA,292764,OPD/1/25/8722,26-03-2026 13:03,LAHA01038,CBC WBC diff RBC and Platelet(HEM-PANEL)[Panel],350.0,220.0,130.0
+576,Oxyvibe Hyperbaric Clinic-FBD,RAGHVENDER GUPTA,292830,OPD/1/25/8735,26-03-2026 17:48,LAHI00417,Histopath - Excision Biopsy Small,1850.0,647.5,1202.5
+578,Oxyvibe Hyperbaric Clinic-FBD,RAGHVENDER GUPTA,292830,OPD/1/25/8735,26-03-2026 17:48,LAMI00135,"Culture, Pus/Wound Swab/Aspirate",850.0,340.0,510.0
+579,Oxyvibe Hyperbaric Clinic-FBD,RAGHVENDER GUPTA,292830,OPD/1/25/8735,26-03-2026 17:48,LAMI00013,Anaerobic culture(Sample other than Blood),1500.0,600.0,900.0

@@ -1,0 +1,196 @@
+{
+  "session_id": "20260512_175102",
+  "created_at": "2026-05-12T17:51:04",
+  "master_path": "d:\\lab_billing_project v3\\data\\Master_Rate_Sheet.xlsx",
+  "stats": {
+    "coop_removed": 288,
+    "billable_rows": 507,
+    "companies": 18,
+    "matched": 482,
+    "unmatched": 25,
+    "total_amount": 154506.5
+  },
+  "companies": [
+    {
+      "party_full": "Healink Multispeciality Hospital",
+      "party_short": "Healink",
+      "his_name": "Healink Hospital-FBD",
+      "mr_col": "Healink Hospital",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_Healink.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_Healink.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\Healink_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Vishwajeet Ajit Jha",
+      "party_short": "VishwajeetJ",
+      "his_name": "Dr. Vishwajeet Ajit Jha",
+      "mr_col": "Dr. Vishwajeet Ajit Jha",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_VishwajeetJ.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_VishwajeetJ.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\VishwajeetJ_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Manisha Gupta (Gupta Clinic)",
+      "party_short": "ManishaG",
+      "his_name": "Gupta Clinic-FBD",
+      "mr_col": "Manisha Gupta (Gupta Clinic)",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_ManishaG.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_ManishaG.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\ManishaG_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Tomar Hospital",
+      "party_short": "Tomar",
+      "his_name": "Tomar Hospital-FBD",
+      "mr_col": "Tomar Hospital",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_Tomar.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_Tomar.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\Tomar_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Accord Superspeciality Hospital",
+      "party_short": "Accord",
+      "his_name": "Accord Superspeciality Hospital-FBD",
+      "mr_col": "Accord Superspeciality",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_Accord.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_Accord.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\Accord_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Bhardwaj Diagnostic Centre",
+      "party_short": "Bhardwaj",
+      "his_name": "Bhardwaj Diagnostic Center-FBD",
+      "mr_col": "Bhardwaj Diagnostics Center",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_Bhardwaj.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_Bhardwaj.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\Bhardwaj_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Preesha Healthcare",
+      "party_short": "Preesha",
+      "his_name": "Preesha Healthcare-FBD",
+      "mr_col": "Preesha Healthcare",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_Preesha.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_Preesha.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\Preesha_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Dr. Sanjay Singla",
+      "party_short": "SanjayS",
+      "his_name": "Dr Sanjay Singla - FBD",
+      "mr_col": "Dr. sanjay singla",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_SanjayS.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_SanjayS.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\SanjayS_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Kalra Child Care Centre",
+      "party_short": "Kalra",
+      "his_name": "Kalra Childcare Centre - FBD",
+      "mr_col": "Kalra Child care Centre",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_Kalra.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_Kalra.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\Kalra_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Oxivibe Hyperbaric Medico Pvt Ltd",
+      "party_short": "Oxyvibe",
+      "his_name": "Oxyvibe Hyperbaric Clinic-FBD",
+      "mr_col": "Oxyvibe",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_Oxyvibe.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_Oxyvibe.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\Oxyvibe_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Dr. Manvi Gupta (Sachin Hospital)",
+      "party_short": "Manvi",
+      "his_name": "Dr. Manvi Gupta C/O Sachin Hospital",
+      "mr_col": "Dr Manvi (Sachin Hospital)",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_Manvi.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_Manvi.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\Manvi_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Samarpan Life Care Pvt Ltd",
+      "party_short": "Samparan",
+      "his_name": "Samarpan Hospital-FBD",
+      "mr_col": "Samparan Hospital",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_Samparan.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_Samparan.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\Samparan_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Dr. Prince Pareek",
+      "party_short": "PrinceP",
+      "his_name": "Dr Prince Pareek-FBD",
+      "mr_col": "Dr. Prince Pareek",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_PrinceP.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_PrinceP.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\PrinceP_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Sehrwat Hospital",
+      "party_short": "Shehrawat",
+      "his_name": "Shehrawat Hospital-FBD",
+      "mr_col": "shehrawat Hospital",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_Shehrawat.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_Shehrawat.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\Shehrawat_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Kashi Healthcare",
+      "party_short": "Kashi",
+      "his_name": "Kashi Healthcare-FBD",
+      "mr_col": "KASHI Healthcare",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_Kashi.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_Kashi.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\Kashi_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Dr. Roopali Singhal",
+      "party_short": "RoopaliS",
+      "his_name": "Dr Roopali Singhal-FBD",
+      "mr_col": "Dr. Roopali sionghal",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_RoopaliS.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_RoopaliS.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\RoopaliS_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Janta Nursing Home",
+      "party_short": "Janta",
+      "his_name": "Janta Hospital -FBD",
+      "mr_col": "JANTA HOSPITAL",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_Janta.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_Janta.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\Janta_Mar26_Working.xlsx"
+    },
+    {
+      "party_full": "Santosh Hospital",
+      "party_short": "Santosh",
+      "his_name": "Santosh Hospital -FBD",
+      "mr_col": "Santosh Hospital",
+      "billing_period": "Mar'26",
+      "matched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\matched_Santosh.csv",
+      "unmatched_file": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\unmatched_Santosh.csv",
+      "ws_path": "d:\\lab_billing_project v3\\output\\Santosh_Mar26_Working.xlsx"
+    }
+  ],
+  "unmatched_template": "d:\\lab_billing_project v3\\output\\batch_sessions\\batch_20260512_175102\\Unmatched_Rates_20260512_175102.xlsx"
+}

@@ -1,0 +1,5 @@
+S.No.,Company Name,Patient Name,MRD Number,Bill Number,creation_date,cpt_code,Service Name,MRP,Discount,Bill_Amount
+261,Preesha Healthcare-FBD,MRS SAVITA,291520,OPD/1/25/8554,19-03-2026 14:55,LAHI00424,Histopath-Hysterectomy -Total Non Neoplastic,2800.0,980.0,1820.0
+263,Preesha Healthcare-FBD,MRS SUNITA,291677,OPD/1/25/8575,20-03-2026 13:40,LAHI00424,Histopath-Hysterectomy -Total Non Neoplastic,2800.0,980.0,1820.0
+266,Preesha Healthcare-FBD,MRS KAMLA,293373,OPD/1/25/8797,29-03-2026 13:08,LABI00784,NT Pro BNP,3500.0,1225.0,2275.0
+268,Preesha Healthcare-FBD,TAMANA PARVEEN,293703,OPD/1/25/8826,30-03-2026 17:19,LAHI00479,Histopath - Endometrial currettings / Endocervical curettings/ polyp,1200.0,420.0,780.0

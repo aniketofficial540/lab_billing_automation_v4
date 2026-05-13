@@ -1,0 +1,8 @@
+S.No.,Company Name,Patient Name,MRD Number,Bill Number,creation_date,cpt_code,Service Name,MRP,Discount,Bill_Amount
+596,Samarpan Hospital-FBD,Akshayaa Hans,288788,OPD/1/25/8213,2026-07-03 13:17:00,LAMI00113,Culture Urine,850.0,700.0,150.0
+599,Samarpan Hospital-FBD,Baby vaani,288792,OPD/1/25/8214,2026-07-03 13:24:00,LAMI00014,Culture Blood (Aerobic),1200.0,600.0,600.0
+600,Samarpan Hospital-FBD,MST KULJEET,289226,OPD/1/25/8285,2026-09-03 18:54:00,LAMI00014,Culture Blood (Aerobic),1200.0,600.0,600.0
+603,Samarpan Hospital-FBD,MR VARUN,289735,OPD/1/25/8332,2026-11-03 16:29:00,LAMI00014,Culture Blood (Aerobic),1200.0,600.0,600.0
+604,Samarpan Hospital-FBD,MRS SIMRAN,290005,OPD/1/25/8367,2026-12-03 17:48:00,LAMI00014,Culture Blood (Aerobic),1200.0,600.0,600.0
+607,Samarpan Hospital-FBD,MASTER RISHAB,290844,OPD/1/25/8466,16-03-2026 14:58,LAMI00014,Culture Blood (Aerobic),1200.0,600.0,600.0
+608,Samarpan Hospital-FBD,MRS KIRAN,293366,OPD/1/25/8791,29-03-2026 11:32,LAMI00014,Culture Blood (Aerobic),1200.0,600.0,600.0

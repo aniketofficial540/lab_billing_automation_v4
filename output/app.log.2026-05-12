@@ -1,0 +1,410 @@
+2026-05-12 12:22:14 | INFO    | lab_billing                    | ============================================================
+2026-05-12 12:22:14 | INFO    | lab_billing                    | Logger initialised
+2026-05-12 12:22:14 | INFO    | lab_billing.__main__           | Application starting (frozen=False)
+2026-05-12 12:30:51 | INFO    | lab_billing.ui.op1_screen      | Op1 start: input=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 12:30:51 | INFO    | lab_billing.core.csv_reader    | HIS export loaded: source=excel, rows=508, path=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 12:30:51 | ERROR   | lab_billing.ui.op1_screen      | Op1 worker failed: These Company Name values could not be matched in Party_Config: Bhardwaj Diagnostic Center-FBD, Dr Roopali Singhal-FBD, Dr. Manvi Gupta C/O Sachin Hospital, Samarpan Hospital-FBD
+Traceback (most recent call last):
+  File "d:\lab_billing_project v3\ui\op1_screen.py", line 103, in run
+    raise ValueError(
+ValueError: These Company Name values could not be matched in Party_Config: Bhardwaj Diagnostic Center-FBD, Dr Roopali Singhal-FBD, Dr. Manvi Gupta C/O Sachin Hospital, Samarpan Hospital-FBD
+2026-05-12 13:34:56 | INFO    | lab_billing.__main__           | Application exiting
+2026-05-12 13:42:59 | INFO    | lab_billing                    | ============================================================
+2026-05-12 13:42:59 | INFO    | lab_billing                    | Logger initialised
+2026-05-12 13:42:59 | INFO    | lab_billing.__main__           | Application starting (frozen=False)
+2026-05-12 13:43:22 | INFO    | lab_billing.ui.op1_screen      | Op1 start: input=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 13:43:22 | INFO    | lab_billing.core.csv_reader    | HIS export loaded: source=excel, rows=508, path=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 13:43:22 | ERROR   | lab_billing.ui.op1_screen      | Op1 worker failed: Missing party columns in Master Rate Sheet for: Dr. Manvi Gupta C/O Sachin Hospital, Oxyvibe Hyperbaric Clinic-FBD, Samarpan Hospital-FBD
+Traceback (most recent call last):
+  File "d:\lab_billing_project v3\ui\op1_screen.py", line 109, in run
+    raise ValueError(
+ValueError: Missing party columns in Master Rate Sheet for: Dr. Manvi Gupta C/O Sachin Hospital, Oxyvibe Hyperbaric Clinic-FBD, Samarpan Hospital-FBD
+2026-05-12 13:47:37 | INFO    | lab_billing.__main__           | Application exiting
+2026-05-12 13:47:43 | INFO    | lab_billing                    | ============================================================
+2026-05-12 13:47:43 | INFO    | lab_billing                    | Logger initialised
+2026-05-12 13:47:43 | INFO    | lab_billing.__main__           | Application starting (frozen=False)
+2026-05-12 13:48:02 | INFO    | lab_billing.ui.op1_screen      | Op1 start: input=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 13:48:02 | INFO    | lab_billing.core.csv_reader    | HIS export loaded: source=excel, rows=508, path=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 13:48:03 | ERROR   | lab_billing.ui.op1_screen      | Op1 worker failed: Missing party columns in Master Rate Sheet for: Dr. Manvi Gupta C/O Sachin Hospital, Oxyvibe Hyperbaric Clinic-FBD, Samarpan Hospital-FBD
+Traceback (most recent call last):
+  File "d:\lab_billing_project v3\ui\op1_screen.py", line 109, in run
+    raise ValueError(
+ValueError: Missing party columns in Master Rate Sheet for: Dr. Manvi Gupta C/O Sachin Hospital, Oxyvibe Hyperbaric Clinic-FBD, Samarpan Hospital-FBD
+2026-05-12 16:03:33 | INFO    | lab_billing.ui.op1_screen      | Op1 start: input=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 16:03:33 | INFO    | lab_billing.core.csv_reader    | HIS export loaded: source=excel, rows=508, path=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 16:03:33 | ERROR   | lab_billing.ui.op1_screen      | Op1 worker failed: Missing party columns in Master Rate Sheet for: Dr. Manvi Gupta C/O Sachin Hospital, Oxyvibe Hyperbaric Clinic-FBD, Samarpan Hospital-FBD
+Traceback (most recent call last):
+  File "d:\lab_billing_project v3\ui\op1_screen.py", line 109, in run
+    raise ValueError(
+ValueError: Missing party columns in Master Rate Sheet for: Dr. Manvi Gupta C/O Sachin Hospital, Oxyvibe Hyperbaric Clinic-FBD, Samarpan Hospital-FBD
+2026-05-12 16:13:34 | INFO    | lab_billing.__main__           | Application exiting
+2026-05-12 16:13:39 | INFO    | lab_billing                    | ============================================================
+2026-05-12 16:13:39 | INFO    | lab_billing                    | Logger initialised
+2026-05-12 16:13:39 | INFO    | lab_billing.__main__           | Application starting (frozen=False)
+2026-05-12 16:13:52 | INFO    | lab_billing.ui.op1_screen      | Op1 start: input=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 16:13:52 | INFO    | lab_billing.core.csv_reader    | HIS export loaded: source=excel, rows=508, path=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 16:13:55 | INFO    | lab_billing.core.batch_store   | Batch session saved: d:\lab_billing_project v3\output\batch_sessions\batch_20260512_161352\batch_session.json
+2026-05-12 16:16:50 | INFO    | lab_billing.__main__           | Application exiting
+2026-05-12 16:16:54 | INFO    | lab_billing                    | ============================================================
+2026-05-12 16:16:54 | INFO    | lab_billing                    | Logger initialised
+2026-05-12 16:16:54 | INFO    | lab_billing.__main__           | Application starting (frozen=False)
+2026-05-12 16:17:11 | INFO    | lab_billing.ui.op1_screen      | Op1 start: input=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 16:17:12 | INFO    | lab_billing.core.csv_reader    | HIS export loaded: source=excel, rows=508, path=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 16:17:14 | INFO    | lab_billing.core.batch_store   | Batch session saved: d:\lab_billing_project v3\output\batch_sessions\batch_20260512_161712\batch_session.json
+2026-05-12 16:20:02 | INFO    | lab_billing.__main__           | Application exiting
+2026-05-12 16:20:05 | INFO    | lab_billing                    | ============================================================
+2026-05-12 16:20:05 | INFO    | lab_billing                    | Logger initialised
+2026-05-12 16:20:05 | INFO    | lab_billing.__main__           | Application starting (frozen=False)
+2026-05-12 16:20:18 | INFO    | lab_billing.__main__           | Application exiting
+2026-05-12 17:29:17 | INFO    | lab_billing                    | ============================================================
+2026-05-12 17:29:17 | INFO    | lab_billing                    | Logger initialised
+2026-05-12 17:29:17 | INFO    | lab_billing.__main__           | Application starting (frozen=False)
+2026-05-12 17:29:32 | INFO    | lab_billing.ui.op2_screen      | Op2 start (batch)
+2026-05-12 17:29:32 | ERROR   | lab_billing.ui.op2_screen      | Op2 worker failed: Unmatched file has blank values. Company blanks: 0, Test Code blanks: 1, Discounted Price blanks: 0.
+Traceback (most recent call last):
+  File "d:\lab_billing_project v3\ui\op2_screen.py", line 97, in run
+    raise ValueError(
+ValueError: Unmatched file has blank values. Company blanks: 0, Test Code blanks: 1, Discounted Price blanks: 0.
+2026-05-12 17:31:49 | INFO    | lab_billing.ui.op2_screen      | Op2 start (batch)
+2026-05-12 17:31:50 | ERROR   | lab_billing.ui.op2_screen      | Op2 worker failed: Vishwajeet Ajit Jha CPT OSLAB0829: multiple different prices in unmatched file.
+Manisha Gupta (Gupta Clinic) CPT LABI00946: multiple different prices in unmatched file.
+Manisha Gupta (Gupta Clinic) CPT LABI01074: multiple different prices in unmatched file.
+Bhardwaj Diagnostic Centre: 1 unmatched test(s) still blank.
+Traceback (most recent call last):
+  File "d:\lab_billing_project v3\ui\op2_screen.py", line 204, in run
+    raise ValueError("\n".join(errors))
+ValueError: Vishwajeet Ajit Jha CPT OSLAB0829: multiple different prices in unmatched file.
+Manisha Gupta (Gupta Clinic) CPT LABI00946: multiple different prices in unmatched file.
+Manisha Gupta (Gupta Clinic) CPT LABI01074: multiple different prices in unmatched file.
+Bhardwaj Diagnostic Centre: 1 unmatched test(s) still blank.
+2026-05-12 17:43:33 | INFO    | lab_billing.ui.op1_screen      | Op1 start: input=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 17:43:33 | INFO    | lab_billing.core.csv_reader    | HIS export loaded: source=excel, rows=508, path=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 17:43:36 | INFO    | lab_billing.core.batch_store   | Batch session saved: d:\lab_billing_project v3\output\batch_sessions\batch_20260512_174334\batch_session.json
+2026-05-12 17:43:55 | INFO    | lab_billing.ui.op2_screen      | Op2 start (batch)
+2026-05-12 17:43:56 | ERROR   | lab_billing.ui.op2_screen      | Op2 worker failed: Vishwajeet Ajit Jha CPT OSLAB0829: multiple different prices in unmatched file.
+Manisha Gupta (Gupta Clinic) CPT LABI00946: multiple different prices in unmatched file.
+Manisha Gupta (Gupta Clinic) CPT LABI01074: multiple different prices in unmatched file.
+Bhardwaj Diagnostic Centre: 1 unmatched test(s) still blank.
+Traceback (most recent call last):
+  File "d:\lab_billing_project v3\ui\op2_screen.py", line 204, in run
+    raise ValueError("\n".join(errors))
+ValueError: Vishwajeet Ajit Jha CPT OSLAB0829: multiple different prices in unmatched file.
+Manisha Gupta (Gupta Clinic) CPT LABI00946: multiple different prices in unmatched file.
+Manisha Gupta (Gupta Clinic) CPT LABI01074: multiple different prices in unmatched file.
+Bhardwaj Diagnostic Centre: 1 unmatched test(s) still blank.
+2026-05-12 17:45:45 | INFO    | lab_billing.ui.op2_screen      | Op2 start (batch)
+2026-05-12 17:45:45 | ERROR   | lab_billing.ui.op2_screen      | Op2 worker failed: Manisha Gupta (Gupta Clinic) CPT LABI00946: multiple different prices in unmatched file.
+Manisha Gupta (Gupta Clinic) CPT LABI01074: multiple different prices in unmatched file.
+Bhardwaj Diagnostic Centre: 1 unmatched test(s) still blank.
+Traceback (most recent call last):
+  File "d:\lab_billing_project v3\ui\op2_screen.py", line 204, in run
+    raise ValueError("\n".join(errors))
+ValueError: Manisha Gupta (Gupta Clinic) CPT LABI00946: multiple different prices in unmatched file.
+Manisha Gupta (Gupta Clinic) CPT LABI01074: multiple different prices in unmatched file.
+Bhardwaj Diagnostic Centre: 1 unmatched test(s) still blank.
+2026-05-12 17:46:36 | INFO    | lab_billing.ui.op2_screen      | Op2 start (batch)
+2026-05-12 17:46:36 | ERROR   | lab_billing.ui.op2_screen      | Op2 worker failed: Manisha Gupta (Gupta Clinic) CPT LABI01074: multiple different prices in unmatched file.
+Bhardwaj Diagnostic Centre: 1 unmatched test(s) still blank.
+Traceback (most recent call last):
+  File "d:\lab_billing_project v3\ui\op2_screen.py", line 204, in run
+    raise ValueError("\n".join(errors))
+ValueError: Manisha Gupta (Gupta Clinic) CPT LABI01074: multiple different prices in unmatched file.
+Bhardwaj Diagnostic Centre: 1 unmatched test(s) still blank.
+2026-05-12 17:46:42 | INFO    | lab_billing.ui.op2_screen      | Op2 start (batch)
+2026-05-12 17:46:42 | ERROR   | lab_billing.ui.op2_screen      | Op2 worker failed: Manisha Gupta (Gupta Clinic) CPT LABI01074: multiple different prices in unmatched file.
+Bhardwaj Diagnostic Centre: 1 unmatched test(s) still blank.
+Traceback (most recent call last):
+  File "d:\lab_billing_project v3\ui\op2_screen.py", line 204, in run
+    raise ValueError("\n".join(errors))
+ValueError: Manisha Gupta (Gupta Clinic) CPT LABI01074: multiple different prices in unmatched file.
+Bhardwaj Diagnostic Centre: 1 unmatched test(s) still blank.
+2026-05-12 17:47:56 | INFO    | lab_billing.ui.op2_screen      | Op2 start (batch)
+2026-05-12 17:47:56 | ERROR   | lab_billing.ui.op2_screen      | Op2 worker failed: Unmatched file has blank values. Company blanks: 0, Test Code blanks: 1, Discounted Price blanks: 0.
+Traceback (most recent call last):
+  File "d:\lab_billing_project v3\ui\op2_screen.py", line 97, in run
+    raise ValueError(
+ValueError: Unmatched file has blank values. Company blanks: 0, Test Code blanks: 1, Discounted Price blanks: 0.
+2026-05-12 17:48:27 | INFO    | lab_billing.ui.op2_screen      | Op2 start (batch)
+2026-05-12 17:48:28 | ERROR   | lab_billing.ui.op2_screen      | Op2 worker failed: Bhardwaj Diagnostic Centre: 1 unmatched test(s) still blank.
+Traceback (most recent call last):
+  File "d:\lab_billing_project v3\ui\op2_screen.py", line 204, in run
+    raise ValueError("\n".join(errors))
+ValueError: Bhardwaj Diagnostic Centre: 1 unmatched test(s) still blank.
+2026-05-12 17:51:02 | INFO    | lab_billing.ui.op1_screen      | Op1 start: input=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 17:51:02 | INFO    | lab_billing.core.csv_reader    | HIS export loaded: source=excel, rows=507, path=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 17:51:04 | INFO    | lab_billing.core.batch_store   | Batch session saved: d:\lab_billing_project v3\output\batch_sessions\batch_20260512_175102\batch_session.json
+2026-05-12 17:51:13 | INFO    | lab_billing.ui.op2_screen      | Op2 start (batch)
+2026-05-12 17:51:14 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Healink Hospital-FBD
+2026-05-12 17:51:14 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175114_pre_inv_inc_Healink_Hospital_F.xlsx
+2026-05-12 17:51:14 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:14 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Healink Hospital-FBD: 0 → 1
+2026-05-12 17:51:15 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:15 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:15 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:15 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr. Vishwajeet Ajit Jha
+2026-05-12 17:51:15 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175115_pre_inv_inc_Dr__Vishwajeet_Aji.xlsx
+2026-05-12 17:51:15 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:15 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr. Vishwajeet Ajit Jha: 0 → 1
+2026-05-12 17:51:15 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:15 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:15 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:16 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Gupta Clinic-FBD
+2026-05-12 17:51:16 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175116_pre_inv_inc_Gupta_Clinic_FBD.xlsx
+2026-05-12 17:51:16 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:16 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Gupta Clinic-FBD: 0 → 1
+2026-05-12 17:51:16 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:16 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:16 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:16 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Tomar Hospital-FBD
+2026-05-12 17:51:16 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175116_pre_inv_inc_Tomar_Hospital_FBD.xlsx
+2026-05-12 17:51:16 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:17 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Tomar Hospital-FBD: 0 → 1
+2026-05-12 17:51:17 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:17 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:17 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:17 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Accord Superspeciality Hospital-FBD
+2026-05-12 17:51:17 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175117_pre_inv_inc_Accord_Superspecia.xlsx
+2026-05-12 17:51:17 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:17 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Accord Superspeciality Hospital-FBD: 0 → 1
+2026-05-12 17:51:18 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:18 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:18 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:18 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Bhardwaj Diagnostic Center-FBD
+2026-05-12 17:51:18 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175118_pre_inv_inc_Bhardwaj_Diagnosti.xlsx
+2026-05-12 17:51:18 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:18 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Bhardwaj Diagnostic Center-FBD: 0 → 1
+2026-05-12 17:51:18 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:18 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:18 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:19 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Preesha Healthcare-FBD
+2026-05-12 17:51:19 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175119_pre_inv_inc_Preesha_Healthcare.xlsx
+2026-05-12 17:51:19 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:19 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Preesha Healthcare-FBD: 0 → 1
+2026-05-12 17:51:19 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:19 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:19 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:19 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr Sanjay Singla - FBD
+2026-05-12 17:51:19 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175119_pre_inv_inc_Dr_Sanjay_Singla__.xlsx
+2026-05-12 17:51:19 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:19 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr Sanjay Singla - FBD: 0 → 1
+2026-05-12 17:51:20 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:20 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:20 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:20 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Kalra Childcare Centre - FBD
+2026-05-12 17:51:20 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175120_pre_inv_inc_Kalra_Childcare_Ce.xlsx
+2026-05-12 17:51:20 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:20 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Kalra Childcare Centre - FBD: 1 → 2
+2026-05-12 17:51:21 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:21 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:21 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:21 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Oxyvibe Hyperbaric Clinic-FBD
+2026-05-12 17:51:21 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175121_pre_inv_inc_Oxyvibe_Hyperbaric.xlsx
+2026-05-12 17:51:21 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:21 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Oxyvibe Hyperbaric Clinic-FBD: 0 → 1
+2026-05-12 17:51:21 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:21 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:21 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:21 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr. Manvi Gupta C/O Sachin Hospital
+2026-05-12 17:51:21 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175121_pre_inv_inc_Dr__Manvi_Gupta_C_.xlsx
+2026-05-12 17:51:21 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:22 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr. Manvi Gupta C/O Sachin Hospital: 0 → 1
+2026-05-12 17:51:22 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:22 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:22 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:22 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Samarpan Hospital-FBD
+2026-05-12 17:51:22 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175122_pre_inv_inc_Samarpan_Hospital_.xlsx
+2026-05-12 17:51:22 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:22 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Samarpan Hospital-FBD: 0 → 1
+2026-05-12 17:51:23 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:23 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:23 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:23 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr Prince Pareek-FBD
+2026-05-12 17:51:23 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175123_pre_inv_inc_Dr_Prince_Pareek_F.xlsx
+2026-05-12 17:51:23 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:23 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr Prince Pareek-FBD: 0 → 1
+2026-05-12 17:51:24 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:24 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:24 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:24 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Shehrawat Hospital-FBD
+2026-05-12 17:51:24 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175124_pre_inv_inc_Shehrawat_Hospital.xlsx
+2026-05-12 17:51:24 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:24 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Shehrawat Hospital-FBD: 0 → 1
+2026-05-12 17:51:24 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:24 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:24 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:24 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Kashi Healthcare-FBD
+2026-05-12 17:51:24 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175124_pre_inv_inc_Kashi_Healthcare_F.xlsx
+2026-05-12 17:51:24 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:25 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Kashi Healthcare-FBD: 0 → 1
+2026-05-12 17:51:25 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:25 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:25 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:25 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr Roopali Singhal-FBD
+2026-05-12 17:51:25 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175125_pre_inv_inc_Dr_Roopali_Singhal.xlsx
+2026-05-12 17:51:25 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:25 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr Roopali Singhal-FBD: 0 → 1
+2026-05-12 17:51:26 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:26 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:26 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:26 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Janta Hospital -FBD
+2026-05-12 17:51:26 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175126_pre_inv_inc_Janta_Hospital__FB.xlsx
+2026-05-12 17:51:26 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:26 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Janta Hospital -FBD: 0 → 1
+2026-05-12 17:51:27 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:27 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:27 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:51:27 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Santosh Hospital -FBD
+2026-05-12 17:51:27 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_175127_pre_inv_inc_Santosh_Hospital__.xlsx
+2026-05-12 17:51:27 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 17:51:27 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Santosh Hospital -FBD: 0 → 1
+2026-05-12 17:51:27 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 17:51:27 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 17:51:27 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 17:53:55 | INFO    | lab_billing.__main__           | Application exiting
+2026-05-12 22:11:02 | INFO    | lab_billing                    | ============================================================
+2026-05-12 22:11:02 | INFO    | lab_billing                    | Logger initialised
+2026-05-12 22:11:02 | INFO    | lab_billing.__main__           | Application starting (frozen=False)
+2026-05-12 22:13:48 | INFO    | lab_billing.ui.op1_screen      | Op1 start: input=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 22:13:49 | INFO    | lab_billing.core.csv_reader    | HIS export loaded: source=excel, rows=507, path=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (1).xlsx
+2026-05-12 22:13:55 | INFO    | lab_billing.core.batch_store   | Batch session saved: d:\lab_billing_project v3\output\batch_sessions\batch_20260512_221349\batch_session.json
+2026-05-12 22:49:57 | INFO    | lab_billing.ui.op1_screen      | Op1 start: input=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (2).xlsx
+2026-05-12 22:49:57 | INFO    | lab_billing.core.csv_reader    | HIS export loaded: source=excel, rows=507, path=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (2).xlsx
+2026-05-12 22:50:02 | INFO    | lab_billing.core.batch_store   | Batch session saved: d:\lab_billing_project v3\output\batch_sessions\batch_20260512_224957\batch_session.json
+2026-05-12 23:13:48 | INFO    | lab_billing.__main__           | Application exiting
+2026-05-12 23:13:53 | INFO    | lab_billing                    | ============================================================
+2026-05-12 23:13:53 | INFO    | lab_billing                    | Logger initialised
+2026-05-12 23:13:53 | INFO    | lab_billing.__main__           | Application starting (frozen=False)
+2026-05-12 23:14:30 | INFO    | lab_billing.ui.op1_screen      | Op1 start: input=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (2).xlsx
+2026-05-12 23:14:30 | INFO    | lab_billing.core.csv_reader    | HIS export loaded: source=excel, rows=507, path=C:/Users/anike/Downloads/AMRITA LAB CREDIT REPORT - 2026-04-11T174832.161 Mar026 HIS (2).xlsx
+2026-05-12 23:14:35 | INFO    | lab_billing.core.batch_store   | Batch session saved: d:\lab_billing_project v3\output\batch_sessions\batch_20260512_231430\batch_session.json
+2026-05-12 23:19:54 | INFO    | lab_billing.ui.op2_screen      | Op2 start (batch)
+2026-05-12 23:19:55 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Healink Hospital-FBD
+2026-05-12 23:19:55 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_231955_pre_inv_inc_Healink_Hospital_F.xlsx
+2026-05-12 23:19:55 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:19:56 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Healink Hospital-FBD: 1 → 2
+2026-05-12 23:19:56 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:19:56 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:19:56 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:19:57 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr. Vishwajeet Ajit Jha
+2026-05-12 23:19:57 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_231957_pre_inv_inc_Dr__Vishwajeet_Aji.xlsx
+2026-05-12 23:19:57 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:19:57 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr. Vishwajeet Ajit Jha: 1 → 2
+2026-05-12 23:19:58 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:19:58 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:19:58 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:19:59 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Gupta Clinic-FBD
+2026-05-12 23:19:59 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_231959_pre_inv_inc_Gupta_Clinic_FBD.xlsx
+2026-05-12 23:19:59 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:19:59 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Gupta Clinic-FBD: 1 → 2
+2026-05-12 23:20:00 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:00 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:00 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:00 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Tomar Hospital-FBD
+2026-05-12 23:20:00 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232000_pre_inv_inc_Tomar_Hospital_FBD.xlsx
+2026-05-12 23:20:00 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:01 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Tomar Hospital-FBD: 1 → 2
+2026-05-12 23:20:01 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:01 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:01 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:02 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Accord Superspeciality Hospital-FBD
+2026-05-12 23:20:02 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232002_pre_inv_inc_Accord_Superspecia.xlsx
+2026-05-12 23:20:02 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:02 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Accord Superspeciality Hospital-FBD: 1 → 2
+2026-05-12 23:20:03 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:03 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:03 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:03 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Bhardwaj Diagnostic Center-FBD
+2026-05-12 23:20:03 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232003_pre_inv_inc_Bhardwaj_Diagnosti.xlsx
+2026-05-12 23:20:03 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:04 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Bhardwaj Diagnostic Center-FBD: 1 → 2
+2026-05-12 23:20:04 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:04 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:04 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:05 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Preesha Healthcare-FBD
+2026-05-12 23:20:05 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232005_pre_inv_inc_Preesha_Healthcare.xlsx
+2026-05-12 23:20:05 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:05 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Preesha Healthcare-FBD: 1 → 2
+2026-05-12 23:20:06 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:06 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:06 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:06 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr Sanjay Singla - FBD
+2026-05-12 23:20:06 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232006_pre_inv_inc_Dr_Sanjay_Singla__.xlsx
+2026-05-12 23:20:06 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:07 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr Sanjay Singla - FBD: 1 → 2
+2026-05-12 23:20:08 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:08 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:08 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:08 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Kalra Childcare Centre - FBD
+2026-05-12 23:20:08 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232008_pre_inv_inc_Kalra_Childcare_Ce.xlsx
+2026-05-12 23:20:08 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:09 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Kalra Childcare Centre - FBD: 2 → 3
+2026-05-12 23:20:10 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:10 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:10 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:10 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Oxyvibe Hyperbaric Clinic-FBD
+2026-05-12 23:20:10 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232010_pre_inv_inc_Oxyvibe_Hyperbaric.xlsx
+2026-05-12 23:20:10 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:11 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Oxyvibe Hyperbaric Clinic-FBD: 1 → 2
+2026-05-12 23:20:11 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:11 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:11 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:12 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr. Manvi Gupta C/O Sachin Hospital
+2026-05-12 23:20:12 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232012_pre_inv_inc_Dr__Manvi_Gupta_C_.xlsx
+2026-05-12 23:20:12 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:12 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr. Manvi Gupta C/O Sachin Hospital: 1 → 2
+2026-05-12 23:20:13 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:13 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:13 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:13 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Samarpan Hospital-FBD
+2026-05-12 23:20:13 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232013_pre_inv_inc_Samarpan_Hospital_.xlsx
+2026-05-12 23:20:13 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:14 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Samarpan Hospital-FBD: 1 → 2
+2026-05-12 23:20:15 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:15 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:15 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:15 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr Prince Pareek-FBD
+2026-05-12 23:20:15 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232015_pre_inv_inc_Dr_Prince_Pareek_F.xlsx
+2026-05-12 23:20:15 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:15 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr Prince Pareek-FBD: 1 → 2
+2026-05-12 23:20:16 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:16 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:16 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:16 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Shehrawat Hospital-FBD
+2026-05-12 23:20:16 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232016_pre_inv_inc_Shehrawat_Hospital.xlsx
+2026-05-12 23:20:16 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:17 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Shehrawat Hospital-FBD: 1 → 2
+2026-05-12 23:20:18 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:18 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:18 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:18 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Kashi Healthcare-FBD
+2026-05-12 23:20:18 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232018_pre_inv_inc_Kashi_Healthcare_F.xlsx
+2026-05-12 23:20:18 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:19 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Kashi Healthcare-FBD: 1 → 2
+2026-05-12 23:20:19 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:19 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:19 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:20 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Dr Roopali Singhal-FBD
+2026-05-12 23:20:20 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232020_pre_inv_inc_Dr_Roopali_Singhal.xlsx
+2026-05-12 23:20:20 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:20 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Dr Roopali Singhal-FBD: 1 → 2
+2026-05-12 23:20:21 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:21 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:21 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:22 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Janta Hospital -FBD
+2026-05-12 23:20:22 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232022_pre_inv_inc_Janta_Hospital__FB.xlsx
+2026-05-12 23:20:22 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:22 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Janta Hospital -FBD: 1 → 2
+2026-05-12 23:20:23 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:23 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:23 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:20:23 | INFO    | lab_billing.core.invoice_numbering | increment_invoice_no: party=Santosh Hospital -FBD
+2026-05-12 23:20:23 | INFO    | lab_billing.core.mrs_safety    | MRS backup created: d:\lab_billing_project v3\data\backups\Master_Rate_Sheet_20260512_232023_pre_inv_inc_Santosh_Hospital__.xlsx
+2026-05-12 23:20:23 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock acquired (d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx.lock)
+2026-05-12 23:20:24 | INFO    | lab_billing.core.invoice_numbering | Invoice number for Santosh Hospital -FBD: 1 → 2
+2026-05-12 23:20:24 | DEBUG   | lab_billing.core.mrs_safety    | Atomic replace OK: d:\lab_billing_project v3\data\Master_Rate_Sheet.xlsx
+2026-05-12 23:20:24 | DEBUG   | lab_billing.core.mrs_safety    | MRS lock released
+2026-05-12 23:20:24 | DEBUG   | lab_billing.core.mrs_safety    | Pruned 1 old MRS backup(s)
+2026-05-12 23:31:40 | INFO    | lab_billing.__main__           | Application exiting
+2026-05-12 23:31:45 | INFO    | lab_billing                    | ============================================================
+2026-05-12 23:31:45 | INFO    | lab_billing                    | Logger initialised
+2026-05-12 23:31:45 | INFO    | lab_billing.__main__           | Application starting (frozen=False)
